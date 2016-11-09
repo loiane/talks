@@ -1,3 +1,8 @@
+# Sumário
+* 55 palestras
+* 4 Lightining talks
+* 9 cursos + workshops
+
 # 2016
 
 ### Internal Speaker Series
