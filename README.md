@@ -19,14 +19,14 @@
 
 ### AngularJS São Paulo Meetup - n10 Microsoft
 
-* Quando: 23 de Novembro
+* Quando: 24 de Novembro
 * Onde:  São Paulo - SP (https://www.meetup.com/pt-BR/AngularJS-Sao-Paulo/events/235284535/?eventId=235284535)
 * Slides: Angular 2 em 50 minutos
 
 ### Hangout OpenSanca
 
 * Quando: 23 de Novembro
-* Onde:  Online
+* Onde:  Online (https://www.meetup.com/pt-BR/opensanca/events/235729863/?eventId=235729863)
 * Slides: Angular 2 em 60 minutos
 
 ### Mobile Summit
