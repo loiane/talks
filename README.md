@@ -1,5 +1,5 @@
 # Sumário
-* 55 palestras
+* 57 palestras
 * 4 Lightining talks
 * 9 cursos + workshops
 
@@ -17,11 +17,23 @@
 * Onde:  Online
 * Slides: Ionic 2
 
+### AngularJS São Paulo Meetup - n10 Microsoft
+
+* Quando: 23 de Novembro
+* Onde:  São Paulo - SP (https://www.meetup.com/pt-BR/AngularJS-Sao-Paulo/events/235284535/?eventId=235284535)
+* Slides: Angular 2 em 50 minutos
+
+### Hangout OpenSanca
+
+* Quando: 23 de Novembro
+* Onde:  Online
+* Slides: Angular 2 em 60 minutos
+
 ### Mobile Summit
 
 * Quando: 19 de Novembro
 * Onde:  Porto Alegre, BH
-* Slides: Ionic 2
+* Slides: Ionic 2 (http://www.slideshare.net/loianeg/mobile-summit-brazil-ionic-2)
 
 ### DevFest BH
 
