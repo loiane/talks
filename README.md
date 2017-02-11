@@ -1,7 +1,27 @@
 # Sumário
-* 57 palestras
+* 61 palestras
 * 4 Lightining talks
 * 9 cursos + workshops
+
+# 2017
+
+### DevOpsWeek
+
+* Quando: 6 de Dezembro
+* Onde:  Online (http://devopsweek.com.br/)
+* Slides: Ionic 2 (http://www.slideshare.net/loianeg/introducao-ao-ionic-2-na-pratica)
+
+### Campus Party Brasil CPBR10
+
+* Quando: 1 de Fevereiro
+* Onde: Centro de Exposições do Anhembi - São Paulo - Palco Campuseiro I (15:15)
+* Slides: Angular 2 (http://www.slideshare.net/loianeg/campus-party-brasil-2017-angular-2-cpbr10)
+
+### Campus Party Brasil CPBR10 - Comunidade SouJava
+
+* Quando: 1 de Fevereiro
+* Onde: Centro de Exposições do Anhembi - São Paulo - Palco Inovação (11:15)
+* Slides: Sem Slides - Bate papo
 
 # 2016
 
@@ -9,25 +29,31 @@
 
 * Quando: 13 de Dezembro
 * Onde: Citibank (internal)
-* Slides: Angular 2
+* Slides: Angular 2 (http://www.slideshare.net/loianeg/angular-2-overview-in-60-minutes)
 
 ### Congresso de TI - 6 edição
 
 * Quando: 6 de Dezembro
 * Onde:  Online
-* Slides: Ionic 2
+* Slides: Ionic 2 (http://www.slideshare.net/loianeg/open-source-mobile-experience-ionic-2)
+
+### Open Source Mobile Experience
+
+* Quando: 26 de Novembro
+* Onde:  São Paulo - SP
+* Slides: Ionic 2 (http://www.slideshare.net/loianeg/open-source-mobile-experience-ionic-2)
 
 ### AngularJS São Paulo Meetup - n10 Microsoft
 
 * Quando: 24 de Novembro
 * Onde:  São Paulo - SP (https://www.meetup.com/pt-BR/AngularJS-Sao-Paulo/events/235284535/?eventId=235284535)
-* Slides: Angular 2 em 50 minutos
+* Slides: Angular 2 em 50 minutos (http://www.slideshare.net/loianeg/angular-2-em-60-minutos)
 
 ### Hangout OpenSanca
 
 * Quando: 23 de Novembro
 * Onde:  Online (https://www.meetup.com/pt-BR/opensanca/events/235729863/?eventId=235729863)
-* Slides: Angular 2 em 60 minutos
+* Slides: Angular 2 em 60 minutos (http://www.slideshare.net/loianeg/angular-2-em-60-minutos)
 
 ### Mobile Summit
 
