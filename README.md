@@ -1,9 +1,33 @@
 # Sumário
-* 61 palestras
+* 63 palestras
 * 4 Lightining talks
 * 9 cursos + workshops
 
 # 2017
+
+### DevConf (em breve)
+
+* Quando: 27 de Maio
+* Onde:  São Carlos, SP - Trilha FrontEnd (http://qconsp.com/)
+* Slides: Ionic 
+
+### QCON SP (em breve)
+
+* Quando: 24 de Abril
+* Onde:  São Paulo, SP - Trilha FrontEnd (http://qconsp.com/)
+* Slides: Projetos Angular Reativos com RxJS e Redux
+
+### CapiConf (Capivara Codes)
+
+* Quando: 1 de Abril
+* Onde:  Curitiba, PR (http://capivara.codes/)
+* Slides: Ionic 2 com Angular 4 (http://www.slideshare.net/loianeg/introducao-ao-ionic-2-na-pratica)
+
+### Meetup AngularSP n12 Especial Mês das Mulheres no CUBO
+
+* Quando: 27 de Março
+* Onde:  Cubo - São Paulo (https://www.meetup.com/pt-BR/AngularJS-Sao-Paulo/events/238274496/?eventId=238274496)
+* Slides: Ionic 2 com Angular 4 (http://www.slideshare.net/loianeg/introducao-ao-ionic-2-na-pratica)
 
 ### DevOpsWeek
 
